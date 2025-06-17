@@ -1,18 +1,28 @@
-# portfolio-website
+# 🌐 Jayesh Karale - Personal Portfolio Website
 
 This is a personal portfolio website built using **HTML** and **CSS**. It showcases my skills, projects, and contact information in a clean and responsive layout.
 
-# Features
+## ✨ Features
+
+- 🔥 Clean and modern UI
+- 🎯 Responsive layout for all devices
+- 💼 About Me & Skills sections
+- 🛠️ Project cards (dynamic placeholders)
+- 📬 Contact Form layout
+- 🔗 Social media integration
+- ❤️ Built with HTML & CSS only (no frameworks)
 
 
 ## 🔗 Live Preview
 
 https://jayeshkarale.github.io/portfolio-website/
 
-## 🛠️ Built With
+## 🧰 Technologies Used
 
 - HTML5  
-- CSS3
+- CSS3  
+- Google Fonts  
+- Font Awesome Icons
 
 ## 📂 Folder Structure
 │
@@ -22,6 +32,7 @@ https://jayeshkarale.github.io/portfolio-website/
 │ ├── images/
 │ └── icons/
 
-👤 Author
-Devoloper - Jayesh Karale
-LinkedIn | GitHub | Twitter
+🧑‍💻 Author
+Website Developer - Jayesh Karale
+📧 Email: [your-email@example.com]
+🔗 LinkedIn | GitHub | Twitter
