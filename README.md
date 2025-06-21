@@ -12,10 +12,13 @@ This is a personal portfolio website built using **HTML** and **CSS**. It showca
 - 🔗 Social media integration
 - ❤️ Built with HTML & CSS only (no frameworks)
 
+## 🌐 Live Demo
 
-## 🔗 Live Preview
+[Click here to view the live project](https://jayeshkarale.github.io/portfolio-website/)
 
-https://jayeshkarale.github.io/portfolio-website/
+## 📸 Preview
+
+![Portfolio Website Screenshot](assets/preview.jpg)
 
 ## 🧰 Technologies Used
 
